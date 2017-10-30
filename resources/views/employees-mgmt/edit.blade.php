@@ -60,7 +60,7 @@
                         </div>
 
                         <div class="form-group">
-                            <label class="col-md-4 control-label">Tame</label>
+                            <label class="col-md-4 control-label">Team</label>
                             <div class="col-md-6">
                                 <select class="form-control" name="team_id">
                                     @foreach ($teams as $team)
